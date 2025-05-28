@@ -13,17 +13,12 @@ Compendio integral de técnicas, prompts y metodologías de IA diseñado especí
 ### 🏗️ Módulos Especializados
 
 - **[00. Esquemas Generales](./00_esquemas_generales/)** - Metodologías Estructuradas para Optimización de Prompts
+- **[01. Marketing y Publicidad](./01_marketing_publicidad/)** - Estrategias Digitales y Growth Hacking *(En desarrollo)*
 - **[02. Estrategias Comerciales](./02_ventas/)** - Técnicas Avanzadas de Ventas y Prospección
 
 ### 🔄 Desarrollo Progresivo
 
-Este repositorio se encuentra en expansión continua, incorporando metodologías para:
-- Marketing Digital y Growth Hacking
-- Recursos Humanos y Gestión de Talento  
-- Operaciones y Automatización de Procesos
-- Análisis de Datos y Business Intelligence
-- Gestión Financiera y Proyecciones
-
+Este repositorio se encuentra en expansión continua, incorporando metodologías para diversos sectores y áreas de la empresa.
 ---
 
 ## 🚀 Implementación Práctica
@@ -107,7 +102,11 @@ Este proyecto crece gracias a la colaboración de profesionales comprometidos co
 
 **Versión**: 1.0.0  
 **Última actualización**: Diciembre 2024  
-**Próximas incorporaciones**: Módulos de Marketing Digital, RRHH y Operaciones
+**Módulos completados**: 2 de 10 planificados
+**Próximas incorporaciones**: 
+- Finalización de Marketing Digital y Growth Hacking (Q1 2025)
+- Recursos Humanos y Gestión de Talento (Q2 2025)
+- Operaciones y Automatización de Procesos (Q2 2025)
 
 ---
 
