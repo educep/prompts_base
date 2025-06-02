@@ -18,6 +18,7 @@ Compendio integral de técnicas, prompts y metodologías de IA diseñado especí
 - **[03. Redes Sociales & Contenidos](./03_rrss_contenidos/)** - Marketing Digital y Gestión de Contenido para RRSS ✅ **COMPLETO**
 - **[04. Negocios & Finanzas](./04_negocios_finanzas/)** - Gestión Empresarial y Estrategia Financiera con IA
 - **[05. Tecnología & Programación](./05_tech_programacion/)** - Desarrollo, Automatización y Ciberseguridad para Empresas ✅ **COMPLETO**
+- **[06. Análisis de Datos](./06_analisis_datos/)** - Data Science y Business Intelligence para Decisiones Estratégicas ✅ **COMPLETO**
 
 ### 🔄 Desarrollo Progresivo
 
@@ -103,13 +104,14 @@ Este proyecto crece gracias a la colaboración de profesionales comprometidos co
 
 ### 🔄 Actualizaciones
 
-**Versión**: 1.4.0  
+**Versión**: 1.5.0  
 **Última actualización**: Diciembre 2024  
-**Módulos completados**: 7 de 10 planificados  
+**Módulos completados**: 8 de 10 planificados  
 **Últimos agregados**: 
+- ✅ **NUEVO**: Módulo completo de Análisis de Datos (169 prompts especializados)
 - ✅ Módulo completo de Redes Sociales & Contenidos (204 prompts especializados)
-- ✅ **NUEVO**: Módulo completo de Tecnología & Programación (71 prompts especializados)
-- ✅ 25 sub-módulos con estrategias específicas para Ecuador
+- ✅ Módulo completo de Tecnología & Programación (71 prompts especializados)
+- ✅ 29 sub-módulos con estrategias específicas para Ecuador
 - ✅ Adaptaciones culturales y contexto local integrado
 - ✅ Herramientas y tips prácticos para implementación inmediata
 
