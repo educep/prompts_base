@@ -15,6 +15,7 @@ Compendio integral de técnicas, prompts y metodologías de IA diseñado especí
 - **[00. Esquemas Generales](./00_esquemas_generales/)** - Metodologías Estructuradas para Optimización de Prompts
 - **[01. Marketing y Publicidad](./01_marketing_publicidad/)** - Estrategias Digitales y Growth Hacking *(En desarrollo)*
 - **[02. Estrategias Comerciales](./02_ventas/)** - Técnicas Avanzadas de Ventas y Prospección
+- **[03. Redes Sociales & Contenidos](./03_rrss_contenidos/)** - Marketing Digital y Gestión de Contenido para RRSS ✅ **COMPLETO**
 - **[04. Negocios & Finanzas](./04_negocios_finanzas/)** - Gestión Empresarial y Estrategia Financiera con IA
 
 ### 🔄 Desarrollo Progresivo
@@ -32,7 +33,7 @@ Este repositorio se encuentra en expansión continua, incorporando metodologías
 ✅ **Actualización Continua**: Incorporación de nuevas técnicas de IA  
 
 ### Compatibilidad:
-- ChatGPT (GPT-3.5, GPT-4, GPT-4o)
+- ChatGPT (GPT-4.1, GPT-4.1-mini, GPT-4o, GPT-4o-mini)
 - Claude (Anthropic)
 - Gemini (Google)
 - Otras plataformas de IA conversacional
@@ -101,9 +102,14 @@ Este proyecto crece gracias a la colaboración de profesionales comprometidos co
 
 ### 🔄 Actualizaciones
 
-**Versión**: 1.1.0  
+**Versión**: 1.3.0  
 **Última actualización**: Diciembre 2024  
-**Módulos completados**: 4 de 10 planificados
+**Módulos completados**: 6 de 10 planificados  
+**Últimos agregados**: 
+- ✅ Módulo completo de Redes Sociales & Contenidos (204 prompts especializados)
+- ✅ 10 sub-módulos con estrategias específicas para Ecuador
+- ✅ Adaptaciones culturales y contexto local integrado
+
 **Próximas incorporaciones**: 
 - Finalización de Marketing Digital y Growth Hacking (Q1 2025)
 - Recursos Humanos y Gestión de Talento (Q2 2025)
