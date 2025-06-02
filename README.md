@@ -17,6 +17,7 @@ Compendio integral de técnicas, prompts y metodologías de IA diseñado especí
 - **[02. Estrategias Comerciales](./02_ventas/)** - Técnicas Avanzadas de Ventas y Prospección
 - **[03. Redes Sociales & Contenidos](./03_rrss_contenidos/)** - Marketing Digital y Gestión de Contenido para RRSS ✅ **COMPLETO**
 - **[04. Negocios & Finanzas](./04_negocios_finanzas/)** - Gestión Empresarial y Estrategia Financiera con IA
+- **[05. Tecnología & Programación](./05_tech_programacion/)** - Desarrollo, Automatización y Ciberseguridad para Empresas ✅ **COMPLETO**
 
 ### 🔄 Desarrollo Progresivo
 
@@ -102,13 +103,15 @@ Este proyecto crece gracias a la colaboración de profesionales comprometidos co
 
 ### 🔄 Actualizaciones
 
-**Versión**: 1.3.0  
+**Versión**: 1.4.0  
 **Última actualización**: Diciembre 2024  
-**Módulos completados**: 6 de 10 planificados  
+**Módulos completados**: 7 de 10 planificados  
 **Últimos agregados**: 
 - ✅ Módulo completo de Redes Sociales & Contenidos (204 prompts especializados)
-- ✅ 10 sub-módulos con estrategias específicas para Ecuador
+- ✅ **NUEVO**: Módulo completo de Tecnología & Programación (71 prompts especializados)
+- ✅ 25 sub-módulos con estrategias específicas para Ecuador
 - ✅ Adaptaciones culturales y contexto local integrado
+- ✅ Herramientas y tips prácticos para implementación inmediata
 
 **Próximas incorporaciones**: 
 - Finalización de Marketing Digital y Growth Hacking (Q1 2025)
