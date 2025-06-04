@@ -12,13 +12,14 @@ Compendio integral de técnicas, prompts y metodologías de IA diseñado especí
 
 ### 🏗️ Módulos Especializados
 
+- **[📘 Fundamentos de Prompt Engineering](./PROMPT_ENGINEERING.md)** - Guía Completa de Diseño de Prompts Efectivos
 - **[00. Esquemas Generales](./00_esquemas_generales/)** - Metodologías Estructuradas para Optimización de Prompts
-- **[01. Marketing y Publicidad](./01_marketing_publicidad/)** - Estrategias Digitales y Growth Hacking *(En desarrollo)*
+- **[01. Marketing y Publicidad](./01_marketing_publicidad/)** - Estrategias Digitales y Growth Hacking
 - **[02. Estrategias Comerciales](./02_ventas/)** - Técnicas Avanzadas de Ventas y Prospección
-- **[03. Redes Sociales & Contenidos](./03_rrss_contenidos/)** - Marketing Digital y Gestión de Contenido para RRSS ✅ **COMPLETO**
+- **[03. Redes Sociales & Contenidos](./03_rrss_contenidos/)** - Marketing Digital y Gestión de Contenido para RRSS 
 - **[04. Negocios & Finanzas](./04_negocios_finanzas/)** - Gestión Empresarial y Estrategia Financiera con IA
-- **[05. Tecnología & Programación](./05_tech_programacion/)** - Desarrollo, Automatización y Ciberseguridad para Empresas ✅ **COMPLETO**
-- **[06. Análisis de Datos](./06_analisis_datos/)** - Data Science y Business Intelligence para Decisiones Estratégicas ✅ **COMPLETO**
+- **[05. Tecnología & Programación](./05_tech_programacion/)** - Desarrollo, Automatización y Ciberseguridad para Empresas
+- **[06. Análisis de Datos](./06_analisis_datos/)** - Data Science y Business Intelligence para Decisiones Estratégicas 
 
 ### 🔄 Desarrollo Progresivo
 
@@ -96,6 +97,7 @@ Este proyecto crece gracias a la colaboración de profesionales comprometidos co
 
 ## 📚 Documentación Adicional
 
+- **[📘 Fundamentos de Prompt Engineering](./PROMPT_ENGINEERING.md)** - Guía completa de diseño de prompts
 - **[Cómo Contribuir](./CONTRIBUCIONES.md)** - Proceso detallado para colaborar
 - **[Código de Conducta](./CODIGO_CONDUCTA.md)** - Normas de la comunidad
 - **[Términos Legales](./AVISO_LEGAL.md)** - Información legal completa
