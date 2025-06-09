@@ -289,14 +289,14 @@ Esta guía está diseñada para empresarios ecuatorianos que necesitan herramien
 
 ## 📞 ¿Necesitas ayuda eligiendo?
 
-**DataScout Ecuador** te ayuda a seleccionar el stack perfecto para tu empresa:
+**Datoscout Ecuador** te ayuda a seleccionar el stack perfecto para tu empresa:
 
 - 📋 Evaluación gratuita de necesidades
 - 💰 Análisis costo-beneficio personalizado
 - 🛠️ Implementación guiada
 - 📚 Capacitación del equipo
 
-📧 **Contacto**: solutions@datascout.ec
+📧 **Contacto**: solutions@datoscout.ec
 
 ---
 

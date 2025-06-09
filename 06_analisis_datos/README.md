@@ -96,7 +96,7 @@ Domine las técnicas más efectivas de análisis de datos con IA para transforma
 
 ### **¿Necesita implementación personalizada?**
 
-**DataScout Ecuador** ofrece servicios especializados de análisis de datos:
+**Datoscout Ecuador** ofrece servicios especializados de análisis de datos:
 
 📧 **Consultoría**: solutions@datoscout.ec  
 🌐 **Más información**: https://datoscout.ec  
