@@ -62,7 +62,7 @@ Este repositorio se encuentra en expansión continua, incorporando metodologías
 
 ## 💼 Contacto Profesional
 
-### DataScout Ecuador
+### Datoscout Ecuador
 **Especialistas en Transformación Digital con IA**
 
 📧 **Email**: solutions@datoscout.ec  

@@ -8,7 +8,7 @@ Este repositorio contiene prompts, metodologías y herramientas de inteligencia 
 
 ### 🚨 LIMITACIÓN DE RESPONSABILIDAD
 
-**DataScout Ecuador** y sus colaboradores:
+**Datoscout Ecuador** y sus colaboradores:
 
 ❌ **NO SE HACEN RESPONSABLES** de:
 - Resultados obtenidos mediante el uso de estos prompts
@@ -51,7 +51,7 @@ Al utilizar este contenido, usted **ACEPTA Y ASUME**:
 
 Para **asesoría personalizada** y **implementación profesional**:
 
-**DataScout Ecuador**
+**Datoscout Ecuador**
 📧 Email: solutions@datoscout.ec  
 🌐 Web: https://datoscout.ec  
 📍 Especialistas en IA para empresas ecuatorianas

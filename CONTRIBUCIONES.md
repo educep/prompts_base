@@ -72,14 +72,14 @@ Agradecemos tu interés en contribuir a este proyecto educativo. Tu participaci�
 ### Formas de Reconocimiento:
 - Mención en la sección de **Contribuidores**
 - Atribución en prompts específicos desarrollados
-- Invitación a colaborar en proyectos de DataScout Ecuador
+- Invitación a colaborar en proyectos de Datoscout Ecuador
 - Networking con otros profesionales del ecosistema IA
 
 ### Contribuidores Destacados:
 Los contribuidores más activos pueden ser invitados a:
 - Webinars exclusivos sobre IA aplicada
 - Beta testing de nuevas herramientas
-- Colaboraciones comerciales con DataScout Ecuador
+- Colaboraciones comerciales con Datoscout Ecuador
 
 ## 🔍 Proceso de Revisión
 
@@ -115,7 +115,7 @@ Si planeas una contribución significativa (nuevo módulo, sección completa), c
 ### Derechos de Autor:
 - Las contribuciones menores se consideran donadas al proyecto
 - Las contribuciones mayores mantendrán atribución al autor
-- DataScout Ecuador mantiene derechos de edición y distribución
+- Datoscout Ecuador mantiene derechos de edición y distribución
 
 ## 🚀 ¡Empezar a Contribuir!
 
