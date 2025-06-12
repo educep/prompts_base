@@ -127,7 +127,7 @@ A medida que la IA se vuelve más potente, estos riesgos aumentan y hay que dise
 
 ## 💼 Contacto Profesional
 
-### DataScout Ecuador
+### Datoscout Ecuador
 **Especialistas en Transformación Digital con IA**
 
 📧 **Email**: solutions@datoscout.ec  
